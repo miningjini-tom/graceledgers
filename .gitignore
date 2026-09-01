@@ -1,0 +1,7 @@
+# Nothing sensitive belongs in this repo. Listed explicitly so a stray copy of
+# the deploy key or the server credentials cannot be committed by accident.
+*.pem
+id_ed25519*
+id_rsa*
+siteinfo.txt
+.env

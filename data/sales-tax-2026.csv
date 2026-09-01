@@ -1,0 +1,52 @@
+name,abbr,slug,has_state_sales_tax,state_rate,avg_local_rate,combined_rate,grocery,grocery_rate,grocery_flat,grocery_local_taxable,shipping,nexus_amount,nexus_transactions,nexus_logic,agency_url,page_url
+Alabama,AL,alabama,true,4.0,5.46,9.46,reduced,2.0,false,false,separate,250000,,or,https://revenue.alabama.gov/,https://graceledgers.com/tools/sales-tax-calculator/alabama/
+Alaska,AK,alaska,false,0.0,1.82,1.82,none,,false,false,varies,100000,,or,https://tax.alaska.gov/,https://graceledgers.com/tools/sales-tax-calculator/alaska/
+Arizona,AZ,arizona,true,5.6,2.94,8.54,exempt,0.0,false,true,varies,100000,,or,https://azdor.gov/,https://graceledgers.com/tools/sales-tax-calculator/arizona/
+Arkansas,AR,arkansas,true,6.5,2.98,9.48,exempt,0.0,false,false,varies,100000,200,or,https://www.dfa.arkansas.gov/,https://graceledgers.com/tools/sales-tax-calculator/arkansas/
+California,CA,california,true,7.25,1.78,9.03,exempt,0.0,false,false,varies,500000,,or,https://www.cdtfa.ca.gov/,https://graceledgers.com/tools/sales-tax-calculator/california/
+Colorado,CO,colorado,true,2.9,4.99,7.89,exempt,0.0,false,true,varies,100000,,or,https://tax.colorado.gov/,https://graceledgers.com/tools/sales-tax-calculator/colorado/
+Connecticut,CT,connecticut,true,6.35,0.0,6.35,exempt,0.0,false,false,varies,100000,200,and,https://portal.ct.gov/DRS,https://graceledgers.com/tools/sales-tax-calculator/connecticut/
+Delaware,DE,delaware,false,0.0,0.0,0.0,none,,false,false,varies,,,or,https://revenue.delaware.gov/,https://graceledgers.com/tools/sales-tax-calculator/delaware/
+District of Columbia,DC,district-of-columbia,true,6.0,0.0,6.0,exempt,0.0,false,false,varies,100000,200,or,https://otr.cfo.dc.gov/,https://graceledgers.com/tools/sales-tax-calculator/district-of-columbia/
+Florida,FL,florida,true,6.0,0.98,6.98,exempt,0.0,false,false,varies,100000,,or,https://floridarevenue.com/,https://graceledgers.com/tools/sales-tax-calculator/florida/
+Georgia,GA,georgia,true,4.0,3.56,7.56,exempt,0.0,false,true,always,100000,200,or,https://dor.georgia.gov/,https://graceledgers.com/tools/sales-tax-calculator/georgia/
+Hawaii,HI,hawaii,true,4.0,0.5,4.5,full,4.0,false,false,varies,100000,200,or,https://tax.hawaii.gov/,https://graceledgers.com/tools/sales-tax-calculator/hawaii/
+Idaho,ID,idaho,true,6.0,0.03,6.03,full,6.0,false,false,varies,100000,,or,https://tax.idaho.gov/,https://graceledgers.com/tools/sales-tax-calculator/idaho/
+Illinois,IL,illinois,true,6.25,2.73,8.98,exempt,0.0,false,false,varies,100000,,or,https://tax.illinois.gov/,https://graceledgers.com/tools/sales-tax-calculator/illinois/
+Indiana,IN,indiana,true,7.0,0.0,7.0,exempt,0.0,false,false,varies,100000,,or,https://www.in.gov/dor/,https://graceledgers.com/tools/sales-tax-calculator/indiana/
+Iowa,IA,iowa,true,6.0,0.94,6.94,exempt,0.0,false,false,varies,100000,,or,https://tax.iowa.gov/,https://graceledgers.com/tools/sales-tax-calculator/iowa/
+Kansas,KS,kansas,true,6.5,2.21,8.71,exempt,0.0,false,false,varies,100000,,or,https://www.ksrevenue.gov/,https://graceledgers.com/tools/sales-tax-calculator/kansas/
+Kentucky,KY,kentucky,true,6.0,0.0,6.0,exempt,0.0,false,false,always,100000,,or,https://revenue.ky.gov/,https://graceledgers.com/tools/sales-tax-calculator/kentucky/
+Louisiana,LA,louisiana,true,5.0,5.13,10.13,exempt,0.0,false,true,always,100000,,or,https://revenue.louisiana.gov/,https://graceledgers.com/tools/sales-tax-calculator/louisiana/
+Maine,ME,maine,true,5.5,0.0,5.5,exempt,0.0,false,false,varies,100000,,or,https://www.maine.gov/revenue/,https://graceledgers.com/tools/sales-tax-calculator/maine/
+Maryland,MD,maryland,true,6.0,0.0,6.0,exempt,0.0,false,false,varies,100000,200,or,https://www.marylandtaxes.gov/,https://graceledgers.com/tools/sales-tax-calculator/maryland/
+Massachusetts,MA,massachusetts,true,6.25,0.0,6.25,exempt,0.0,false,false,varies,100000,,or,https://www.mass.gov/orgs/massachusetts-department-of-revenue,https://graceledgers.com/tools/sales-tax-calculator/massachusetts/
+Michigan,MI,michigan,true,6.0,0.0,6.0,exempt,0.0,false,false,varies,100000,200,or,https://www.michigan.gov/taxes,https://graceledgers.com/tools/sales-tax-calculator/michigan/
+Minnesota,MN,minnesota,true,6.875,1.26,8.14,exempt,0.0,false,false,varies,100000,200,or,https://www.revenue.state.mn.us/,https://graceledgers.com/tools/sales-tax-calculator/minnesota/
+Mississippi,MS,mississippi,true,7.0,0.06,7.06,reduced,5.0,false,false,varies,250000,,or,https://www.dor.ms.gov/,https://graceledgers.com/tools/sales-tax-calculator/mississippi/
+Missouri,MO,missouri,true,4.225,4.22,8.44,reduced,1.225,false,false,varies,100000,,or,https://dor.mo.gov/,https://graceledgers.com/tools/sales-tax-calculator/missouri/
+Montana,MT,montana,false,0.0,0.0,0.0,none,,false,false,varies,,,or,https://mtrevenue.gov/,https://graceledgers.com/tools/sales-tax-calculator/montana/
+Nebraska,NE,nebraska,true,5.5,1.48,6.98,exempt,0.0,false,false,varies,100000,200,or,https://revenue.nebraska.gov/,https://graceledgers.com/tools/sales-tax-calculator/nebraska/
+Nevada,NV,nevada,true,6.85,1.39,8.24,exempt,0.0,false,false,varies,100000,200,or,https://tax.nv.gov/,https://graceledgers.com/tools/sales-tax-calculator/nevada/
+New Hampshire,NH,new-hampshire,false,0.0,0.0,0.0,none,,false,false,varies,,,or,https://www.revenue.nh.gov/,https://graceledgers.com/tools/sales-tax-calculator/new-hampshire/
+New Jersey,NJ,new-jersey,true,6.625,0.0,6.6,exempt,0.0,false,false,varies,100000,200,or,https://www.nj.gov/treasury/taxation/,https://graceledgers.com/tools/sales-tax-calculator/new-jersey/
+New Mexico,NM,new-mexico,true,4.875,2.8,7.68,exempt,0.0,false,false,varies,100000,,or,https://www.tax.newmexico.gov/,https://graceledgers.com/tools/sales-tax-calculator/new-mexico/
+New York,NY,new-york,true,4.0,4.54,8.54,exempt,0.0,false,false,always,500000,100,and,https://www.tax.ny.gov/,https://graceledgers.com/tools/sales-tax-calculator/new-york/
+North Carolina,NC,north-carolina,true,4.75,2.35,7.1,exempt,0.0,false,true,varies,100000,,or,https://www.ncdor.gov/,https://graceledgers.com/tools/sales-tax-calculator/north-carolina/
+North Dakota,ND,north-dakota,true,5.0,2.09,7.09,exempt,0.0,false,false,varies,100000,,or,https://www.tax.nd.gov/,https://graceledgers.com/tools/sales-tax-calculator/north-dakota/
+Ohio,OH,ohio,true,5.75,1.54,7.29,exempt,0.0,false,false,varies,100000,200,or,https://tax.ohio.gov/,https://graceledgers.com/tools/sales-tax-calculator/ohio/
+Oklahoma,OK,oklahoma,true,4.5,4.56,9.06,exempt,0.0,false,false,varies,100000,,or,https://oklahoma.gov/tax.html,https://graceledgers.com/tools/sales-tax-calculator/oklahoma/
+Oregon,OR,oregon,false,0.0,0.0,0.0,none,,false,false,varies,,,or,https://www.oregon.gov/dor/,https://graceledgers.com/tools/sales-tax-calculator/oregon/
+Pennsylvania,PA,pennsylvania,true,6.0,0.34,6.34,exempt,0.0,false,false,varies,100000,,or,https://www.revenue.pa.gov/,https://graceledgers.com/tools/sales-tax-calculator/pennsylvania/
+Rhode Island,RI,rhode-island,true,7.0,0.0,7.0,exempt,0.0,false,false,varies,100000,200,or,https://tax.ri.gov/,https://graceledgers.com/tools/sales-tax-calculator/rhode-island/
+South Carolina,SC,south-carolina,true,6.0,1.49,7.49,exempt,0.0,false,true,varies,100000,,or,https://dor.sc.gov/,https://graceledgers.com/tools/sales-tax-calculator/south-carolina/
+South Dakota,SD,south-dakota,true,4.2,1.91,6.11,full,4.2,false,false,varies,100000,,or,https://dor.sd.gov/,https://graceledgers.com/tools/sales-tax-calculator/south-dakota/
+Tennessee,TN,tennessee,true,7.0,2.61,9.61,reduced,4.0,false,false,always,100000,,or,https://www.tn.gov/revenue.html,https://graceledgers.com/tools/sales-tax-calculator/tennessee/
+Texas,TX,texas,true,6.25,1.95,8.2,exempt,0.0,false,false,always,500000,,or,https://comptroller.texas.gov/,https://graceledgers.com/tools/sales-tax-calculator/texas/
+Utah,UT,utah,true,6.1,1.32,7.42,reduced,3.0,true,false,varies,100000,,or,https://tax.utah.gov/,https://graceledgers.com/tools/sales-tax-calculator/utah/
+Vermont,VT,vermont,true,6.0,0.43,6.43,exempt,0.0,false,false,varies,100000,200,or,https://tax.vermont.gov/,https://graceledgers.com/tools/sales-tax-calculator/vermont/
+Virginia,VA,virginia,true,5.3,0.47,5.77,reduced,1.0,true,false,varies,100000,200,or,https://www.tax.virginia.gov/,https://graceledgers.com/tools/sales-tax-calculator/virginia/
+Washington,WA,washington,true,6.5,3.07,9.57,exempt,0.0,false,false,always,100000,,or,https://dor.wa.gov/,https://graceledgers.com/tools/sales-tax-calculator/washington/
+West Virginia,WV,west-virginia,true,6.0,0.6,6.6,exempt,0.0,false,false,always,100000,200,or,https://tax.wv.gov/,https://graceledgers.com/tools/sales-tax-calculator/west-virginia/
+Wisconsin,WI,wisconsin,true,5.0,0.72,5.72,exempt,0.0,false,false,always,100000,,or,https://www.revenue.wi.gov/,https://graceledgers.com/tools/sales-tax-calculator/wisconsin/
+Wyoming,WY,wyoming,true,4.0,1.39,5.39,exempt,0.0,false,false,varies,100000,,or,https://revenue.wyo.gov/,https://graceledgers.com/tools/sales-tax-calculator/wyoming/
